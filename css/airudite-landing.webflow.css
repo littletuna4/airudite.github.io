@@ -1967,6 +1967,7 @@ figcaption {
   border-bottom-style: none;
   height: 20px;
   padding-left: 0;
+  display: flex;
 }
 
 .brand.w--current {
