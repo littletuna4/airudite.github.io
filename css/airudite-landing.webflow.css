@@ -1721,6 +1721,7 @@ figcaption {
 
 .button.green {
   background-color: var(--green);
+  min-width: 100px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -3231,6 +3232,11 @@ figcaption {
 
   .style-grid-three-c {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .button.green {
+    padding-left: 30px;
+    padding-right: 10px;
   }
 
   .brand {
