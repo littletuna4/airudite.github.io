@@ -3181,6 +3181,7 @@ figcaption {
   grid-auto-columns: 1fr;
   align-items: start;
   justify-items: center;
+  max-width: 100%;
 }
 
 @media screen and (max-width: 991px) {
